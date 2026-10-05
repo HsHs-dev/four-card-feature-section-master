@@ -26,10 +26,11 @@ A solution to the [Four Card Feature Section](https://www.frontendmentor.io/chal
 - CSS Grid helps you make complex layouts without much pain
 - Don't forget giving the correct number of columns/rows to `grid-template-columns/rows`
 - `<article>` tag is more suitable for aggregated components (like cards) than `<section>` tag 
+- use the right tool for the job, `display: flexbox` on mobile make the cards stack nicely 
 
 ### Challenges
 
-- Reseting media queries of a complex grid layout can be tricky and requires extra care and debugging
+- Reseting media queries of a complex grid layout can be tricky and requires extra care and debugging, perhaps using grid areas will make it easier
 
 ## Author
 
